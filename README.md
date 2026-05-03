@@ -33,6 +33,3 @@ A premium landing page for a drink brand. It uses smooth animations and a clean 
    ```bash
    npm run dev
    ```
-
-## License
-MIT
