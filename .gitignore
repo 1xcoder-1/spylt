@@ -4,7 +4,6 @@ dist
 .idea
 .vscode
 *.exe
-*.d.ts
 .vite
 .cache
 .turbo
